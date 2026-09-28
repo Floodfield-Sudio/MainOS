@@ -1,6 +1,6 @@
 <div align="center">
 
-# UNIOS
+# MainOS (ex : UNIOS)
 
 **Un système d'exploitation universel, conçu depuis le secteur de boot.**
 
